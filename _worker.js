@@ -3,12 +3,12 @@
 import { connect } from 'cloudflare:sockets';
 
 const listProxy = [
-    { path: '/id1', proxy: '194.58.56.169' },
-    { path: '/id2', proxy: '202.10.42.30' },
-    { path: '/id3', proxy: '194.58.56.111' },
-    { path: '/id4', proxy: '194.58.56.49' },
-    { path: '/id5', proxy: '202.10.42.30' },
-    { path: '/id6', proxy: '35.219.50.99' },
+    { path: '/id1', proxy: '104.248.145.216' },
+    { path: '/id2', proxy: '104.248.145.216' },
+    { path: '/id3', proxy: '104.248.145.216' },
+    { path: '/id4', proxy: '104.248.145.216' },
+    { path: '/id5', proxy: '104.248.145.216' },
+    { path: '/id6', proxy: '3104.248.145.216' },
     { path: '/sg1', proxy: '104.248.145.216' },
     { path: '/sg2', proxy: '51.91.40.26' },
     //tambahin sendiri
